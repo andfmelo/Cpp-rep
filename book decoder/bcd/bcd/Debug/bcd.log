@@ -1,0 +1,3 @@
+﻿  bcd.cpp
+C:\$$INFO1156,W2020\bcd\bcd\bcd.cpp(120,7): warning C4101: 'msgCh': unreferenced local variable
+  bcd.vcxproj -> C:\$$INFO1156,W2020\bcd\Debug\bcd.exe
